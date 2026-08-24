@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated values, 0-100. Edit freely; the radar workflow redraws them. 5-8 axes reads best.",
+  "axes": [
+    { "label": "Backend",         "value": 80 },
+    { "label": "Frontend",        "value": 70 },
+    { "label": "AI / ML",         "value": 75 },
+    { "label": "System Design",   "value": 75 },
+    { "label": "Databases",       "value": 70 },
+    { "label": "Problem Solving", "value": 85 },
+    { "label": "DevOps",          "value": 50 }
+  ]
+}

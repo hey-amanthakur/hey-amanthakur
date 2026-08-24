@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "lock-box",
+      "description": "Production-grade, framework-agnostic distributed lock and lease library for Node.js."
+    },
+    {
+      "repo": "retry-box",
+      "description": "A retry and resilience engine for Node.js: configurable backoff, retry budgets, timeouts, AbortSignal cancellation and a circuit breaker for downstream dependencies."
+    },
+    {
+      "repo": "coord-box",
+      "description": "Distributed coordination toolkit: semaphores for controlling concurrent workers and an idempotency registry that executes side-effecting operations exactly once."
+    },
+    {
+      "repo": "chat-bot",
+      "description": "Embeddable AI chatbot for local businesses. An AI-powered customer support widget on any website in minutes, with multi-business support, lead capture and FAQs."
+    }
+  ]
+}
