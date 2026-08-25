@@ -39,7 +39,7 @@ jobs:
             --github "${{ github.repository_owner }}" \
             -o assets/radar-langs \
             --limit 7 --values --curve 0.4 \
-            --exclude "shell,makefile,dockerfile,batchfile,procfile,jupyter notebook"
+            --exclude "batchfile,procfile,jupyter notebook,css,javascript"
 
       # Self-hosted stat and repo cards. These replace github-readme-stats and
       # github-profile-trophy, whose shared public instances return 503 and 402.
